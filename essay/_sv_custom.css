@@ -54,3 +54,34 @@
 .sv-presentation-description {
 }
 */
+
+.sv-presentation-caption-text {
+    background: rgba(255, 255, 255, 0.9);
+    font-size: 15px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    display: none;
+}
+
+.sv-presentation-title {
+    line-height: 1.3;
+    text-align: right;
+    width: 75%;
+    font-weight: bold;
+}
+.sv-presentation-description {
+    margin: 0 auto;
+    max-width: 500px;
+    text-align: left;
+    color: white;
+}
+.sv-presentation-cover {
+    background: #3a3a3a;
+    color: #0e0e0e;
+    position: relative;
+}
+.sv-presentation-description p {
+    font-size: 14px;
+}

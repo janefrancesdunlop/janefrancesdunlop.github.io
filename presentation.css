@@ -916,9 +916,3 @@ body,
 .sv-presentation-description p {
     font-size: 15px;
 }
-
-iframe, video, img {
-    height: 100%;
-    max-width: none;
-    width: auto;
-}
